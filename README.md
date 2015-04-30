@@ -9,7 +9,7 @@ The branch *research* is used to explore the sqlite things.
 ## Basic error codes
 
 | Error constant | Error code | Error message |
-| -------------- | ---------- | ------------- |
+| :------------- | :--------- | :------------ |
 | SQLITE_OK | 0 | not an error |
 | SQLITE_ERROR | 1 | SQL logic error or missing database |
 | SQLITE_INTERNAL | 2 | unknown error |
@@ -45,7 +45,7 @@ The branch *research* is used to explore the sqlite things.
 ## Extended error codes
 
 | Error constant | Error code | Error message |
-| -------------- | ---------- | ------------- |
+| :------------- | :--------- | :------------ |
 | SQLITE_IOERR_READ | 266 | disk I/O error |
 | SQLITE_IOERR_SHORT_READ | 522 | disk I/O error |
 | SQLITE_IOERR_WRITE | 778 | disk I/O error |
